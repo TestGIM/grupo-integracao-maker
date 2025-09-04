@@ -1,7 +1,7 @@
 # 🤖 Grupo de Integração Maker — GIM
 
-O **GIM** está de volta e de cara nova! 🚀  
-Agora como **Grupo de Integração Maker**, queremos unir pessoas de **todas as áreas do conhecimento** que tenham em comum a intençao de trasnformar o mundo e **vontade de aprender, compartilhar e criar**.  
+O **GIM** está de volta com uma nova missão! 🚀  
+Queremos unir pessoas de **todas as áreas do conhecimento** que tenham em comum a intençao de trasnformar o mundo e **vontade de aprender, compartilhar e criar**.  
 
 ---
 
@@ -14,7 +14,7 @@ Agora como **Grupo de Integração Maker**, queremos unir pessoas de **todas as 
 ---
 
 ## 🔧 Nossa infraestrutura
-Hoje contamos com o que não tínhamos antes:  
+Hoje contamos muito mais do que tínhamos antes:  
 - 🤖 Robôs e kits de prototipagem.  
 - 🖨️ Impressora 3D.  
 - 💡 Espaço para oficinas e encontros.  
